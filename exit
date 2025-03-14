@@ -1,0 +1,29 @@
+[33mcommit 4a44fd3d6030d473dd5ea99b8dd84b0ea703f7a6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lucas Correa <lucas.engsoftwareee@gmail.com>
+Date:   Fri Mar 14 10:47:51 2025 -0300
+
+    init of the form
+
+[33mcommit a2cb6ce3099b2027b91165a0d707ded8836d2526[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Lucas Correa <lucas.engsoftwareee@gmail.com>
+Date:   Fri Mar 14 10:19:36 2025 -0300
+
+    content of the aside
+
+[33mcommit a8236a52ecf0b9d3545f327fbe0a502665a23a37[m
+Author: Lucas Correa <lucas.engsoftwareee@gmail.com>
+Date:   Fri Mar 14 09:53:36 2025 -0300
+
+    layout css
+
+[33mcommit 849bb59b434c1df60da954aa0d050c24f0a0e76a[m
+Author: Lucas Correa <lucas.engsoftwareee@gmail.com>
+Date:   Fri Mar 14 09:14:19 2025 -0300
+
+    add colors e fonts in the css global
+
+[33mcommit f41f47fbc61ecf3e022f30e1f30a8d1a0f0d5a2a[m
+Author: Lucas Correa <lucas.engsoftwareee@gmail.com>
+Date:   Fri Mar 14 08:56:32 2025 -0300
+
+    initial commit
